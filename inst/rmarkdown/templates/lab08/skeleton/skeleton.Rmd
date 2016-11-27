@@ -1,0 +1,66 @@
+---
+title: "Lab 4: Probability"
+author: "Your Name"
+date: "Date of Lab Session"
+output: oilabs::lab_report
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(ggplot2)
+library(oilabs)
+```
+
+* * *
+
+### Exercise 1: 
+
+- Place your response here.
+
+
+### Exercise 2: 
+
+- Place your response here.
+
+
+### Exercise 3: 
+
+```{r}
+
+```
+
+- Place your response here.
+
+### Exercise 4: 
+
+```{r}
+
+```
+
+
+### Exercise 5: 
+
+```{r}
+
+```
+
+
+### Exercise 6: 
+
+```{r}
+
+```
+
+- Place your response here.
+
+
+### Exercise 7: 
+
+- Place your response here.
+
+
+### Exercise 8: 
+
+- Place your response here.
+

@@ -1,11 +1,11 @@
 ---
-title: "Lab 1: Intro to R"
-author: "Name"
-date: "Date of lab session"
+title: "Lab 1: Introduction to R"
+author: "Your Name"
+date: "Date of Lab Session"
 output: oilabs::lab_report
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 library(ggplot2)
@@ -21,7 +21,7 @@ data(arbuthnot)
 
 ### Exercise 1: 
 
-```{r eval = FALSE}
+```{r, eval = FALSE}
 arbuthnot$girls
 ```
 
@@ -48,7 +48,7 @@ arbuthnot$girls
 
 
 ### Exercise 5:
-
+- Place your response here.
 
 
 ### Exercise 6:

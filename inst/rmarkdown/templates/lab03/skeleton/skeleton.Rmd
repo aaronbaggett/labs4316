@@ -1,0 +1,73 @@
+---
+title: "Lab 3: The Normal Distribution"
+author: "Your Name"
+date: "Date of Lab Session"
+output: oilabs::lab_report
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(ggplot2)
+library(oilabs)
+```
+
+* * *
+
+### Exercise 1: 
+
+```{r}
+
+```
+
+
+### Exercise 2: 
+
+- Place your response here.
+
+
+### Exercise 3: 
+
+```{r}
+
+```
+
+
+### Exercise 4: 
+
+- Place your response here.
+
+
+### Exercise 5: 
+
+- Place your response here.
+
+
+### Exercise 6: 
+
+- Place your response here.
+
+
+### Exercise 7: 
+
+```{r}
+
+```
+
+
+### Exercise 8: 
+
+- Place your response here.
+
+
+### Exercise 9: 
+
+```{r}
+
+```
+
+1. 
+2. 
+3. 
+4. 
+
