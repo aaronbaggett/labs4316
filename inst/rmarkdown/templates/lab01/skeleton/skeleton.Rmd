@@ -28,39 +28,44 @@ arbuthnot$girls
 
 ### Exercise 2:
 
-```{r}
-
-```
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 3:
 
-```{r echo = FALSE}
-
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 4:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
 
 ### Exercise 5:
-- Place your response here.
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 6:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 7:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 

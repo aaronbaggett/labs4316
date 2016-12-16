@@ -1,25 +1,18 @@
----
-title: "Lab 8: Inference for Categorical Data"
-author: "Your Name"
-date: "Date of Lab Session"
-output: oilabs::lab_report
----
-
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(dplyr)
-library(ggplot2)
-library(oilabs)
-```
-
-* * *
 
 ### Exercise 1:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 2:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
@@ -44,10 +37,18 @@ library(oilabs)
 
 ### Exercise 5:
 
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 6:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
@@ -62,6 +63,10 @@ library(oilabs)
 
 
 ### Exercise 8:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
@@ -86,11 +91,6 @@ library(oilabs)
 
 ### Exercise 11:
 
-- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
-
-
-### Exercise 12a:
-
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
@@ -98,15 +98,10 @@ library(oilabs)
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 12b:
+### Exercise 12:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
-
-- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
-
-
-### Exercise 13:
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)

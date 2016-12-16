@@ -14,17 +14,17 @@ library(oilabs)
 
 * * *
 
-### Exercise 1
+### Exercise 1:
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 2
+### Exercise 2:
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 3
+### Exercise 3:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
@@ -33,7 +33,7 @@ library(oilabs)
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 4
+### Exercise 4:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
@@ -42,7 +42,7 @@ library(oilabs)
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 5
+### Exercise 5:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
@@ -51,12 +51,12 @@ library(oilabs)
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 6
+### Exercise 6:
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 7
+### Exercise 7:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
@@ -65,7 +65,7 @@ library(oilabs)
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 8
+### Exercise 8:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
@@ -74,7 +74,7 @@ library(oilabs)
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 9
+### Exercise 9:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
@@ -83,6 +83,6 @@ library(oilabs)
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 10
+### Exercise 10:
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)

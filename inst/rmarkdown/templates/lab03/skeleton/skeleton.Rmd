@@ -14,60 +14,69 @@ library(oilabs)
 
 * * *
 
-### Exercise 1: 
+### Exercise 1:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
-
-### Exercise 2: 
-
-- Place your response here.
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 3: 
+### Exercise 2:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 3:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
-
-### Exercise 4: 
-
-- Place your response here.
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 5: 
+### Exercise 4:
 
-- Place your response here.
-
-
-### Exercise 6: 
-
-- Place your response here.
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 7: 
+### Exercise 5:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
-
-### Exercise 8: 
-
-- Place your response here.
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 9: 
+### Exercise 6:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
-1. 
-2. 
-3. 
-4. 
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
+
+### Exercise 7:
+
+1. REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE NUMBER)
+2. REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE NUMBER)
+3. REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE NUMBER)
+4. REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE NUMBER)
+
+
+### Exercise 8:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 9:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
