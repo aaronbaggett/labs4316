@@ -1,5 +1,5 @@
 ---
-title: "Lab 4: Probability"
+title: "Lab 8: Inference for Categorical Data"
 author: "Your Name"
 date: "Date of Lab Session"
 output: oilabs::lab_report
@@ -14,53 +14,99 @@ library(oilabs)
 
 * * *
 
-### Exercise 1: 
+### Exercise 1
 
-- Place your response here.
-
-
-### Exercise 2: 
-
-- Place your response here.
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 3: 
+### Exercise 2
 
-```{r}
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
-```
 
-- Place your response here.
-
-### Exercise 4: 
+### Exercise 3
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
-### Exercise 5: 
+
+### Exercise 4
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
-### Exercise 6: 
+
+### Exercise 5
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 6
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 7
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
-- Place your response here.
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 7: 
+### Exercise 8
 
-- Place your response here.
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 8: 
+### Exercise 9
 
-- Place your response here.
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 10
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 11
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 12a
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 12b
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 13
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
