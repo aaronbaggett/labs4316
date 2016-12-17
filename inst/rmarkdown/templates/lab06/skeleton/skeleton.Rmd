@@ -1,5 +1,5 @@
 ---
-title: "Lab 4: Probability"
+title: "Lab 6: Confidence Intervals"
 author: "Your Name"
 date: "Date of Lab Session"
 output: oilabs::lab_report
@@ -14,53 +14,62 @@ library(oilabs)
 
 * * *
 
-### Exercise 1: 
-
-- Place your response here.
-
-
-### Exercise 2: 
-
-- Place your response here.
-
-
-### Exercise 3: 
+### Exercise 1:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
-- Place your response here.
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
-### Exercise 4: 
+
+### Exercise 2:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 3:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 4:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 5:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 6:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 7:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
-### Exercise 5: 
+
+### Exercise 8:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
-### Exercise 6: 
+
+### Exercise 9:
 
 ```{r}
-
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
 
-- Place your response here.
-
-
-### Exercise 7: 
-
-- Place your response here.
-
-
-### Exercise 8: 
-
-- Place your response here.
-
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
