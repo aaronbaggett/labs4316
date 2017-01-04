@@ -1,5 +1,5 @@
 ---
-title: "Lab 5: Sampling Distributions"
+title: "Lab 5: Inference for Numerical Data"
 author: "Your Name"
 date: "Date of Lab Session"
 output: oilabs::lab_report
@@ -16,10 +16,18 @@ library(oilabs)
 
 ### Exercise 1:
 
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 2:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
@@ -53,6 +61,10 @@ library(oilabs)
 
 ### Exercise 6:
 
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
@@ -76,6 +88,11 @@ library(oilabs)
 
 ### Exercise 9:
 
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 10:
+
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
@@ -83,6 +100,10 @@ library(oilabs)
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
-### Exercise 10:
+### Exercise 11:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)

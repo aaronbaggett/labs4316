@@ -1,5 +1,5 @@
 ---
-title: "Lab 4: Introduction to Probability"
+title: "Lab 4: Sampling Distributions and Confidence Intervals"
 author: "Your Name"
 date: "Date of Lab Session"
 output: oilabs::lab_report
@@ -16,6 +16,10 @@ library(oilabs)
 
 ### Exercise 1:
 
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
@@ -29,10 +33,6 @@ library(oilabs)
 
 
 ### Exercise 3:
-
-```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
-```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
@@ -66,6 +66,10 @@ library(oilabs)
 
 ### Exercise 7:
 
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
@@ -73,3 +77,31 @@ library(oilabs)
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
+
+### Exercise 9:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 10:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 11:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 12:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 13:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
