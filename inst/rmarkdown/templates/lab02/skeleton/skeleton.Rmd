@@ -16,6 +16,10 @@ library(oilabs)
 
 ### Exercise 1:
 
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
