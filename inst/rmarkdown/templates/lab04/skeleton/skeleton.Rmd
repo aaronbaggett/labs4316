@@ -11,6 +11,7 @@ library(dplyr)
 library(ggplot2)
 library(oilabs)
 data(ames)
+set.seed(2305) # CHANGE 2305 TO ANY NUMBER YOU LIKE
 ```
 
 * * *
@@ -91,10 +92,18 @@ data(ames)
 
 ### Exercise 11:
 
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 12:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
