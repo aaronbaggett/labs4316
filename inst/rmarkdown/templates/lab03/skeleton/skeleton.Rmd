@@ -1,5 +1,5 @@
 ---
-title: "Lab 3: The Normal Distribution"
+title: "Lab 7: Simple Regression"
 author: "Your Name"
 date: "Date of Lab Session"
 output: oilabs::lab_report
@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 library(ggplot2)
 library(oilabs)
-data(bdims)
+data(mlb11)
 ```
 
 * * *
@@ -31,42 +31,31 @@ data(bdims)
 
 ### Exercise 3:
 
-```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
-```
-
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 4:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 5:
 
-```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
-```
-
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 6:
-
-```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
-```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 7:
 
-1. REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE NUMBER)
-2. REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE NUMBER)
-3. REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE NUMBER)
-4. REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE NUMBER)
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 8:
@@ -75,6 +64,20 @@ data(bdims)
 
 
 ### Exercise 9:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 10:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 11:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)

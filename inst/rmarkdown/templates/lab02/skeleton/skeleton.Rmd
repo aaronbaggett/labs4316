@@ -1,5 +1,5 @@
 ---
-title: "Lab 2: Introduction to Data"
+title: "Lab 5: Inference for Numerical Data"
 author: "Your Name"
 date: "Date of Lab Session"
 output: oilabs::lab_report
@@ -10,7 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 library(ggplot2)
 library(oilabs)
-data("nycflights")
 ```
 
 * * *
@@ -53,10 +52,18 @@ data("nycflights")
 
 ### Exercise 5:
 
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 6:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
@@ -66,6 +73,8 @@ data("nycflights")
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
 ```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
 
 ### Exercise 8:
@@ -78,6 +87,20 @@ data("nycflights")
 
 
 ### Exercise 9:
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 10:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+```
+
+- REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
+
+
+### Exercise 11:
 
 ```{r}
 # REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)

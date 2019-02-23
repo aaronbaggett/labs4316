@@ -2,14 +2,14 @@
 title: "Lab 1: Introduction to R"
 author: "Your Name"
 date: "Date of Lab Session"
-output: oilabs::lab_report
+output: labs2316::lab_report
 ---
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 library(ggplot2)
-library(oilabs)
+library(labs2316)
 ```
 
 * * *
@@ -21,12 +21,16 @@ data(arbuthnot)
 
 ### Exercise 1: 
 
-```{r, eval = FALSE}
-arbuthnot$girls
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 
 ### Exercise 2:
+
+```{r}
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
+```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
 
@@ -34,7 +38,7 @@ arbuthnot$girls
 ### Exercise 3:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
@@ -43,7 +47,7 @@ arbuthnot$girls
 ### Exercise 4:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 
@@ -55,7 +59,7 @@ arbuthnot$girls
 ### Exercise 6:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
@@ -64,7 +68,7 @@ arbuthnot$girls
 ### Exercise 7:
 
 ```{r}
-# REPLACE THIS LINE WITH YOUR R CODE (INCLUDING THE #)
+# REPLACE THIS LINE WITH YOUR R CODE (DELETE THE #)
 ```
 
 - REPLACE THIS LINE WITH YOUR RESPONSE (LEAVE THE DASH)
